@@ -1,6 +1,6 @@
 # Unity-Template-QuestXRHandsURP
 
-A quickstart Unity 2022 project for Oculus Quest uging XR Interaction toolkit and hands detection and Universarl render pipeline (URP)
+A quickstart Unity 2022 project for Oculus Quest uging XR Interaction toolkit and hands detection, with Universal render pipeline (URP)
 
 ## Getting started
 
